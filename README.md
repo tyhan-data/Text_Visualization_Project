@@ -38,15 +38,12 @@ The main goals of this project are:
 # 📂 Project Structure
 
 ```
-0_Text_Visualization_Project
+_Text_Visualization_Project
 │
 ├── text_visualization.py
 ├── pca_visualization.py
-├── tsne_visualization.py
-└── images
-     ├── wordcloud.png
-     ├── pca_visualization.png
-     └── t-sne_visualization.png
+└── tsne_visualization.py
+
 ```
 
 ---
